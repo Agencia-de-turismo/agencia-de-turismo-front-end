@@ -25,7 +25,7 @@ export const ToursDestacados = () => {
         <div className='ElemTour'>
             <p className=' font-bold text-[1.5rem] flex justify-center text-[#6347F9]'> Tour Destacados!</p>
             <h2 className="text-[2rem] font-bold flex justify-center">Lugares hermosos alrededor del mundo</h2>
-            <div className=" mx-auto py-[3rem]   max-w-[1200px] flex justify-center h-[37vh]">
+            <div className=" mx-auto py-[3rem]   max-w-[1200px] flex justify-center h-[60vh]">
                 <div className="grid grid-cols-3 h-[28vh] gap-[1rem]">
                     <div className="relative">
                         <div className='absolute top-[19rem] left-4'>

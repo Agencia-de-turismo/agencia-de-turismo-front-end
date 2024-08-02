@@ -23,7 +23,7 @@ export const PaquetesPop = () => {
     return (
 
 
-        <section className='El h-[30vh] pt-[11rem] '>
+        <section className='El h-[30vh] pt-[5rem] '>
 
             <p className='font-bold text-[1.5rem]     flex justify-center text-[#6347F9]'>Paquetes Populares</p>
             <h2 className="text-[2rem] font-bold flex justify-center pb-[2rem]">Consulta nuestros paquetes</h2>
